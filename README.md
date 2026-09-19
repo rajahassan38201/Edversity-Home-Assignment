@@ -109,8 +109,8 @@ To measure answer quality and hallucination rate in production, I would implemen
 
 ### Setup
 ```bash
-git clone https://github.com/<your-username>/learnforge-assistant.git
-cd learnforge-assistant
+git clone https://github.com/rajahassan38201/Edversity-Home-Assignment.git
+cd Edversity-Home-Assignment
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
